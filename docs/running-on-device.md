@@ -1,6 +1,6 @@
 ---
 id: running-on-device
-title: Running On Device
+title: Running On Private Device
 hide_table_of_contents: true
 ---
 
